@@ -20,8 +20,8 @@ bash Nahfer-os.sh</h6>
 <br>
 <h4>basadas en debian</h4>
 <h6>
-sudo apt update && apt upgrade -y<br>
-sudo apt install git -y<br>
+sudo apt-get update && apt upgrade -y<br>
+sudo apt-get install git -y<br>
 git clone https://github.com/capitancomando/Nahfer-OS<br>
 cd Nahfer-OS <br>
 bash Nahfer-os.sh</h6>
