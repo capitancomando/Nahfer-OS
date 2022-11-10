@@ -12,7 +12,8 @@ y Termux.</h5><br>
 <img src="termux_desktop/capturas/nahferos_install.png"
      alt="Install Nahfer os"
      width="315"
-     height="180">
+     height="180"><br>
+<h3> Temas Nahfer-OS</h3>
 <img src="termux_desktop/capturas/imagen1.png"
      alt="Install Nahfer os"
      width="315"
