@@ -9,11 +9,12 @@
 Debian</h5><br>
 <h5> Es compatible en Distribuciones basadas en debian<br>
 y Termux.</h5><br><h2>Comandos de instalacion</h2><br>
-apt update && apt upgrade -y
-apt install git -y
-git clone https://github.com/capitancomando/Nahfer-OS
-cd Nahfer-OS
-bash Nahfer-os.sh
+<h6>
+apt update && apt upgrade -y<br>
+apt install git -y<br>
+git clone https://github.com/capitancomando/Nahfer-OS<br>
+cd Nahfer-OS <br>
+bash Nahfer-os.sh</h6>
 <br>
 <img src="termux_desktop/capturas/nahferos_install.png"
      alt="Install Nahfer os"
