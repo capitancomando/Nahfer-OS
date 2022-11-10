@@ -12,23 +12,23 @@ y Termux.</h5><br>
 <img src="termux_desktop/capturas/nahferos_install.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen1.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen2.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen3.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen4.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen5.png"
      alt="Install Nahfer os"
      width="315"
@@ -40,5 +40,5 @@ y Termux.</h5><br>
 <img src="termux_desktop/capturas/imagen7.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 </center></body></head></html>
