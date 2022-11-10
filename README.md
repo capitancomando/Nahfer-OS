@@ -8,7 +8,8 @@
 <h5> Nahfer-OS es un parche de escritorio xfce4 de distribuciones basadas en
 Debian</h5><br>
 <h5> Es compatible en Distribuciones basadas en debian<br>
-y Termux.</h5><br><h2>Comandos de instalacion</h2><br>
+y Termux.</h5><br>
+<h2>Comandos de instalacion</h2>
 <h6>
 apt update && apt upgrade -y<br>
 apt install git -y<br>
