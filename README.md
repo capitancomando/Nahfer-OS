@@ -10,6 +10,7 @@ Debian</h5><br>
 <h5> Es compatible en Distribuciones basadas en debian<br>
 y Termux.</h5><br>
 <h2>Comandos de instalacion</h2>
+<h4>Termux</h4>
 <h6>
 apt update && apt upgrade -y<br>
 apt install git -y<br>
