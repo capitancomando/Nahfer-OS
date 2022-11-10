@@ -6,14 +6,22 @@
 <center>
 <h1> Nahfer-OS </h1><br>
 <h5> Nahfer-OS es un parche de escritorio xfce4 de distribuciones basadas en
-Debian</h5><br>
+Debian</h5>
 <h5> Es compatible en Distribuciones basadas en debian<br>
-y Termux.</h5><br>
+y Termux.</h5>
 <h2>Comandos de instalacion</h2>
 <h4>Termux</h4>
 <h6>
 apt update && apt upgrade -y<br>
 apt install git -y<br>
+git clone https://github.com/capitancomando/Nahfer-OS<br>
+cd Nahfer-OS <br>
+bash Nahfer-os.sh</h6>
+<br>
+<h4>basadas en debian</h4>
+<h6>
+sudo apt update && apt upgrade -y<br>
+sudo apt install git -y<br>
 git clone https://github.com/capitancomando/Nahfer-OS<br>
 cd Nahfer-OS <br>
 bash Nahfer-os.sh</h6>
