@@ -32,11 +32,11 @@ y Termux.</h5><br>
 <img src="termux_desktop/capturas/imagen5.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen6.png"
      alt="Install Nahfer os"
      width="315"
-     height="180"><br>
+     height="180">
 <img src="termux_desktop/capturas/imagen7.png"
      alt="Install Nahfer os"
      width="315"
