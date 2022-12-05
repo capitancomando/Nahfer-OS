@@ -222,19 +222,19 @@ function configuracion_nahfer(){
 clear
 ### verificar si existe config_nahfer.zip
 if [[ -f "$directorio_nahfer_os/termux_desktop/confi_nahfer.zip" ]]; then
-    wget --no-check-certificate --continue https://nahfer-os-uptodows.000webhostapp.com/archivos/confi_nahfer.zip -P $directorio_nahfer_os/termux_desktop
+    wget --no-check-certificate --continue https://servernahferos.000webhostapp.com/archivo/confi_nahfer.zip -P $directorio_nahfer_os/termux_desktop
     echo -e "\e[32mArchivo Nahfer: Existe [+]...\e[0m"
     sleep 2
 else
    echo -e "\e[31m Archivo Nahfer: No existe [x]...\e[0m"
    sleep 2
    echo -e "\e[32m Descargando archivos...\e[0m"
-   wget --no-check-certificate --continue https://nahfer-os-uptodows.000webhostapp.com/archivos/confi_nahfer.zip -P $directorio_nahfer_os/termux_desktop
+   wget --no-check-certificate --continue https://servernahferos.000webhostapp.com/archivo/confi_nahfer.zip -P $directorio_nahfer_os/termux_desktop
    echo -e "\e[35m Archivo descargado...\e[0m"
 fi
 
 # verifica si la descarga es correcta
-#wget --no-check-certificate --continue https://nahfer-os-uptodows.000webhostapp.com/archivos/confi_nahfer.zip -P $directorio_nahfer_os/termux_desktop
+#wget --no-check-certificate --continue https://servernahferos.000webhostapp.com/archivo/confi_nahfer.zip -P $directorio_nahfer_os/termux_desktop
 #sleep 2
 ### terminado
 
